@@ -1,4 +1,4 @@
-# IWindows
+# IWindows (2021)
 A home automation system prototype that controls a window and its blind in function of the temperature, luminosity and humidity 
 
 The system was controlled by an Atmega card and an ESP to get the connection by Wifi.
