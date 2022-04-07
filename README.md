@@ -12,4 +12,4 @@ Moreover, there is also an alarm mode that rings when a movement is detected.
 
 ![1649322593937](https://user-images.githubusercontent.com/72990665/162164420-e8c1955e-71bf-471e-be40-48b53f50402d.jpg)
 
-![image](https://user-images.githubusercontent.com/72990665/162163505-a98c1693-0cf0-484d-8f96-b8c843202caf.png)
+![162163505-a98c1693-0cf0-484d-8f96-b8c843202caf(1)](https://user-images.githubusercontent.com/72990665/162168144-b27a7b76-215e-4c65-8b73-1352f47a799f.png)
